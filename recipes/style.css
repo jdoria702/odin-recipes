@@ -1,0 +1,61 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgb(216, 216, 216);
+  padding: 48px 128px;
+}
+
+.card {
+  background-color: rgb(255, 255, 255);
+  width: 50%;
+  padding: 48px 72px;
+  border-radius: 20px;
+}
+
+.title h1 {
+  margin-bottom: 12px;
+}
+
+.title img {
+  margin-bottom: 12px;
+}
+
+.description h2 {
+  margin-bottom: 12px;
+}
+
+.description {
+  margin-bottom: 24px;
+}
+
+.ingredients h3 {
+  margin-bottom: 12px;
+}
+
+.ingredients ul {
+  padding-left: 24px;
+}
+
+.ingredients {
+  background-color: lightyellow;
+  border-radius: 20px;
+  padding: 20px 24px;
+  margin-bottom: 12px;
+}
+
+.steps h3 {
+  margin-bottom: 12px;
+}
+
+.steps ol {
+  padding-left: 24px;
+  margin-bottom: 48px;
+}
+
+.steps ol li {
+  margin-bottom: 12px;
+}
